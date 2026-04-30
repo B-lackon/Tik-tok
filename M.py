@@ -34,8 +34,8 @@ try:
 except:
     SIGNERPY_AVAILABLE = False
 
-BOT_TOKEN = input("- Enter your Token : ").strip()
-BOT_OWNER = 8278578545
+BOT_TOKEN = input("- 6557143211:AAEx1P75HQ1HxMdYl0tTUZbEHXnSsyMF8ao : ").strip()
+BOT_OWNER = 1997851407
 bot = telebot.TeleBot(BOT_TOKEN)
 
 user_states = {}
